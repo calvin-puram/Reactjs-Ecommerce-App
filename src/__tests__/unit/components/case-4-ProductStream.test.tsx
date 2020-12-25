@@ -18,7 +18,7 @@ describe('The <ProductStream /> component', () => {
       priceUnformatted: 2299,
     },
     {
-      id: 12323,
+      id: 1232233,
       image: 'https://calvin',
       name: 'new addidas',
       price: 'from $230',
