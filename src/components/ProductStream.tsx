@@ -14,6 +14,7 @@ const ProductStream: FC<Props> = ({ products }) => {
       {products.map((product) => (
         <ProductTile key={product.id} {...product} />
       ))}
+      
     </Wrapper>
   )
 }

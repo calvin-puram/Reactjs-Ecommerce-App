@@ -1,6 +1,6 @@
 module.exports = {
   roots: ['<rootDir>/src'],
-  testRegex: '(/__tests__/.*\\.test)\\.(ts|tsx|js)$',
+  testRegex: '(/src/__tests__/.*\\.test)\\.(ts|tsx|js)$',
   transform: {
     '^.+\\.tsx?$': 'ts-jest',
   },
